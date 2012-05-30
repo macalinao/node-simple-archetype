@@ -1,4 +1,4 @@
-node-simple-archetype
+${name}
 =====================
 
-A simple Node.js archetype.
+${description}

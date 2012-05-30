@@ -1,0 +1,7 @@
+{
+    "name": "${name}",
+    "version": "${version}",
+    "author": "${author}",
+    "description": "${description}",
+    "main": "./app.js"
+}
